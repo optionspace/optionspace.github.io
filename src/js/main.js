@@ -172,7 +172,7 @@ function bootstrapElements(json) {
   $('.menubar').addClass('col-sm-3 col-md-3 sidebar')
   $('.menubar ul').first().addClass('nav nav-sidebar')
 
-  $('.content').addClass('col-sm-9 col-sm-offset-3 col-md-9 col-md-offset-3 main')
+  $('.content').addClass('col-sm-9 col-md-9 main')
   $('.content h1').first().addClass('col-md-12')
 
   $('.content div').each(function(index, data) {
