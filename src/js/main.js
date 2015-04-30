@@ -122,7 +122,7 @@ function fixiFrame() {
 
 function configJSON()
 {
-  $.getJSON('settings.json', function(json) {
+  $.getJSON('config.json', function(json) {
 
     titleAndHeaderLinks(json['title'], json['largeLinks'], json['projectLinks'])
     bootstrapElements(json['layout'])
