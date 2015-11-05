@@ -171,6 +171,10 @@ h6, .h6 {
   padding: 10px;
 }
 
+#logo-icon a:last-child img {
+  max-width: 150px;
+}
+
 .iframe-container {
   position: relative;
   padding-bottom: 56.5%;

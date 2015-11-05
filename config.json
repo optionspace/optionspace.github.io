@@ -1,15 +1,9 @@
 {
-  "title": "Press Kit - Company Name",
+  "title": "Press Kit - OptionSpace",
   "largeLinks": [
     {
-      "name": "CompanyName.com",
+      "name": "OptionSpace.co",
       "link": "&#47;"
-    }
-  ],
-  "projectLinks": [
-    {
-      "name": "Example Project",
-      "link": "projects&#47;exampleproject&#47;"
     }
   ],
   "layout": {
@@ -17,8 +11,8 @@
       "factsheet"
     ],
     "60%_Width": [
-      "description",
-      "history",
+      "overview",
+      "details",
       "projects"
     ],
     "50%_Width": [

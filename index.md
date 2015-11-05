@@ -1,54 +1,70 @@
-# ![Company Name](assets/images/header.png)
+# ![OptionSpace](assets/images/optionspace-header@2x.jpg)
 
 ## Factsheet
 
-**Developer:**  
-Company Name
+**Product:**
+OptionSpace
 
-**Founding date:**  
-January 1, 2015
+**Developer:**  
+Me and User, LLC
+
+**Launch date:**  
+November 9th, 2015
 
 **Website:**  
-[companydomain.com][homepage]
+[optionspace.co][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[press@optionspace.co][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
-
-**Releases:**  
-[exampleproject][example_project]
+[twitter.com/optionspace][twitter]  
+<!-- [facebook.com/optionspaceapp][facebook]   -->
+<!-- [Skype](callto:companyskypename) -->
 
 **Address:**  
-Line 1  
-Line 2  
-Line 3
+68 Jay St #718  
+Brooklyn, NY 11201  
 
 **Phone:**  
-+00 (1) 22 33 44 55
+617-500-5755
 
-## Description
+## Overview
 
-Stuff about the studio. Talk about yourselves in the third person!
+What if you could instantly make every app on your Mac just a little bit better?
 
-## History
+OptionSpace is a utility for Mac OS X that gives you insanely fast keyboard access to any menu item, in any app with menus. 
 
-### Beginning
+No need to use the mouse, and, even better, no keyboard-combinations to memorize or recall. Just type a few letters of the menu item. It's that easy. OptionSpace helps keep you focused on what you're doing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Second subhed if you want it!
+## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### History
 
-## Projects
+When the original Macintosh&reg; was introduced in 1984, it had a menubar with pull down-menus running along the top of the screen. And that menubar hasn't changed much since.
 
-* [exampleproject][example_project]
+More than 30 years later, Matt Morris, the lead developer of OptionSpace, was sick of wasting time trying to memorize obscure key combinations for occasionally used menu items. And sick of searching with the mouse to remember the location of some rarely used menu item.
 
-## Videos
+He tried setting custom keyboard-shortcuts, but those took time to set up, and still required some effort to memorize. He tried using the Help menu's search feature, but it was just too brittle and limited. And thus, OptionSpace was born. Suddenly menu items everywhere were a *bit* smarter and a *whole lot* easier to use. 
+
+
+### How OptionSpace is smarter
+
+OptionSpace uses a custom-built fuzzy matching algorithm which can learn to predict what menu item you are looking for. You can recall previous commands using the built-in history. OptionSpace even understands when you search by acronym (e.g, to click "Save for web...", just type ("sfw") . OptionSpace works hard to make your experience easier.
+
+### OptionSpace seems kind of like...
+
+- *Spotlight&reg;*: Spotlight makes it easy to open files or applications on your computer. In other words, from the perspective of what you're working on right now, Spotlight is "outward-facing" search &mdash; it helps you get at other things. And it's great at it! OptionSpace, on the other hand, is "inward-facing" search. That is, it focuses on what you're working on now, and helps you stay in the zone. 
+
+- *LaunchBar&trade;, Quicksilver, &amp; Alfred&reg;*: These apps are all amazing and have changed how we interact with our computers. For the most part, these are similar to Spotlight in that they are "outward-facing". Because they have extensive plug-in capabilities, there are optional ways of doing inward search in some of these apps.
+
+- *The Help Menu Search*: OptionSpace is very similar to the Search box in the Help menu of Mac OS X. But OptionSpace takes a great idea and makes it more powerful, easier to use, and smarter. If you like the Help Menu's Search, you will LOVE OptionSpace.
+
+
+
+
+<!-- ## Videos
 
 We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
 
@@ -57,25 +73,24 @@ We have a trailer and this is it. [And this is what we called the link](https://
 <br>
 
 This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe> -->
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip (834 KB)](assets/images/optionspace-images.zip "Images zip") **
 
-[![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
-[![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
-[![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
-[![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
+[![OptionSpace Search](assets/images/example1@2x.png)](assets/images/example1@2x.png)
+[![OptionSpace Ready](assets/images/example2@2x.png)](assets/images/example2@2x.png)
+[![OptionSpace Keyboard Combination](assets/images/example3@2x.jpg)](assets/images/example3@2x.jpg)
 
 ## Logo & Icon
 
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+download logo files as ** [.zip (52 KB)]( assets/images/optionspace-logo.zip "Logo & Icon zip") **
 
-[![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
-[![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
+[![logo](assets/images/optionspace-logo.jpg)](assets/images/optionspace-logo.jpg "Logo")
+[![icon](assets/images/optionspace-icon.png)](assets/images/optionspace-icon.png "Icon")
 
-## Awards & Recognition
+<!-- ## Awards & Recognition
 
 > * "Winner, XX awards." - *game name, December 13, 2013*
 > * "Nominee, YY awards." - *game name, December 13, 2013*
@@ -87,57 +102,46 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 
 > * "More quotes."  
--- *Person name, [Site](http://geocities.blog.com/)*
+-- *Person name, [Site](http://geocities.blog.com/)* -->
 
 
 ## Additional Links
 
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
+**Me and User, LLC**  
+Developers of OptionSpace. Find us [here](https://meanduser.com)
 
-**Company Link #2**  
-Another of these. See [here](https://link)
+## Team Members
 
-## Team & Repeating Collaborator
+Matt Morris  
+*Founder*
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
-
-**Another person's name**  
-[developer maybe](https://link)
-
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
 
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[press@optionspace.co][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/optionspace][twitter]
 
-** Facebook**  
-[facebook.com/companyname][facebook]
+<!-- ** Facebook**  
+[facebook.com/companyname][facebook] -->
 
 **Web**  
-[companydomain.com][homepage]
+[optionspace.co][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: https://optionspace.co "OptionSpace"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:press@optionspace.co
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
-[facebook]: https://facebook.com/companyname
-[skype]: callto:companyskypename
+[twitter]: https://twitter.com/optionspace
+<!-- [facebook]: https://facebook.com/companyname -->
+<!-- [skype]: callto:companyskypename -->
 
 <!--- Projects  -->
 
