@@ -3,7 +3,7 @@
   "largeLinks": [
     {
       "name": "OptionSpace.co",
-      "link": "&#47;"
+      "link": "&#47;&#47;optionspace.co&#47;"
     }
   ],
   "layout": {
@@ -11,8 +11,9 @@
       "factsheet"
     ],
     "60%_Width": [
-      "overview",
-      "details",
+      "product-overview",
+      "history",
+      "faqs",
       "projects"
     ],
     "50%_Width": [
