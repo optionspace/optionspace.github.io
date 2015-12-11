@@ -53,7 +53,7 @@ He tried setting custom keyboard-shortcuts, but those took time to set up, and s
 
 - **Power Users**: if you already know some keyboard shortcuts for your favorite apps, OptionSpace can take your keyboard skills to a whole new level. Your cursor may never touch a menu again.
 
-- **Designers**: Today's graphics editing applications have become increasingly complex. Even those apps with excellent keyboard support leave a lot of tools buried in menus and submenus: OptionSpace puts them at your fingertips.
+- **Designers &amp; Artists**: Today's graphics editing applications have become increasingly complex. Even those apps with excellent keyboard support leave a lot of tools buried in menus and submenus: OptionSpace puts them at your fingertips.
 
 - **Developers**: If you use a great code editor, you may have used a tool like OptionSpace already. But why leave this productivity booster when you switch away from your editor? OptionSpace supports all your apps.
 
@@ -63,7 +63,7 @@ He tried setting custom keyboard-shortcuts, but those took time to set up, and s
 
 ### How is OptionSpace "smart"?
 
-OptionSpace uses a custom-built fuzzy matching algorithm which can learn to predict what menu item you are looking for. You can recall previous commands using the built-in history. OptionSpace even understands when you search by acronym (e.g, to click "Save for web...", just type ("sfw") . OptionSpace works hard to make your experience easier.
+OptionSpace uses a custom-built fuzzy matching algorithm which can learn to predict what menu item you are looking for. You can recall previous commands using the built-in history. OptionSpace even understands when you search by acronym (e.g, to click "Save for web...", just type ("sfw"). OptionSpace works hard to make your experience easier.
 
 ### Isn't OptionSpace a lot like...?
 
@@ -119,7 +119,7 @@ download logo files as ** [.zip (52 KB)]( assets/images/optionspace-logo.zip "Lo
 ## Additional Links
 
 **Me and User, LLC**  
-Developers of OptionSpace. Find us [here](https://meanduser.com)
+Developers of OptionSpace. Find us [here](http://meanduser.com).
 
 ## Team Members
 
@@ -133,7 +133,7 @@ While he enjoys building for the web, mobile, and desktop environments, deep dow
 He lives in New York with his wife, two adorable kittens, and the aforementioned little ones.
 
 
-## Contact
+## contact
 
 **Inquiries**  
 [press@optionspace.co][contact]
